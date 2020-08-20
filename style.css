@@ -1,0 +1,49 @@
+
+body{
+    font-family: cursive;
+    background-color: peachpuff;
+    background-size: 100% 100%;
+    
+}
+section{
+    width: 550px;
+    background-color: white;
+    margin: auto;
+    padding: 10px 0px;
+}
+label{
+    font-weight: bold;
+}
+div{
+    text-align: center;
+    margin: auto;
+}
+p,
+input[type="text"],
+input[type="number"],
+textarea,
+form{
+    width: 350px;
+    padding: 8px;
+}
+p,
+form{
+    margin: auto;
+}
+input,
+textarea{
+    margin: 10px 0;
+}
+input[type="submit"]{
+    display: block;
+    background-color: black;
+    color: pink;
+    margin: auto;
+    width: 300px;
+    padding: 15px;
+    border-radius: 5px;
+}
+input[type="checkkbox"]{
+    margin-left: 6px;
+    margin-right: 6px;
+}
